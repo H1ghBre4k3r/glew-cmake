@@ -15,6 +15,12 @@
 /build/cmake/Makefile
 /auto/extensions
 /auto/registry
+/build/CMakeCache.txt
+/build/CMakeFiles/
+/build/Makefile
+/build/bin/
+/build/cmake_install.cmake
+/build/lib/
 /bin
 /lib
 /tmp
